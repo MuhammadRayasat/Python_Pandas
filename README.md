@@ -1,4 +1,4 @@
-# Pandas Cheat Sheet 🐼
+# Pandas Cheat Sheet 
 
 A beginner-friendly reference guide for essential **Python Pandas** functions and methods used in data analysis.
 
